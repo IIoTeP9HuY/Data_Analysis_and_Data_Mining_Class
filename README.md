@@ -3,7 +3,7 @@
 Introduction
 ============
 
-These repository contatins sources of solutions for Data Analysis and Data Mining Class in Higher School of Economics
+These repository contains sources of solutions for Data Analysis and Data Mining Class in Higher School of Economics
 
 Collaboration Policy
 ==========
